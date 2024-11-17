@@ -42,8 +42,8 @@ El script utiliza la API de Unpaywall para consultar el estado de accesibilidad 
 ### **1. Clonar el repositorio**
 Clona este repositorio en tu máquina local:
 ```bash
-git clone https://github.com/usuario/verificacion-accesibilidad.git
-cd verificacion-accesibilidad
+git clone https://github.com/Esteb4nx/check_papers_access.git
+cd check_papers_access
 ```
 
 ### **2. Instalar dependencias**
